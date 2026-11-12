@@ -1,0 +1,19 @@
+# Local secrets and machine settings
+.env
+.env.*
+!.env.example
+# Virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local generated files
+*.log
+*.db
+!data/app.db
+*.db-wal
+*.db-shm
+.DS_Store
+.idea/
+.vscode/

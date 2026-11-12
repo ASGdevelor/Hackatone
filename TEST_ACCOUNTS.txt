@@ -1,0 +1,22 @@
+ТЕСТОВЫЕ АККАУНТЫ — только для локального MVP! Не использовать в реальной компании.
+
+Директор
+Email: director@fotoprint.by
+Password: DirectorDemo2026!
+
+Начальник производства
+Email: petrov@fotoprint.by
+Password: ManagerDemo2026!
+
+Заместитель производства
+Email: sidorov@fotoprint.by
+Password: DeputyDemo2026!
+
+Начальник продаж
+Email: smirnova@fotoprint.by
+Password: SalesHeadDemo2026!
+
+Заместитель продаж
+Email: kuznetsov@fotoprint.by
+Password: SalesDeputyDemo2026!
+

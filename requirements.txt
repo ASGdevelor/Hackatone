@@ -1,0 +1,5 @@
+fastapi>=0.110,<1
+uvicorn>=0.29,<1
+python-dotenv>=1,<2
+httpx>=0.27,<1
+reportlab>=4.0,<5
